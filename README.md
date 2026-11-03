@@ -2,7 +2,7 @@
 
 **Spatial Intelligence in the Physical World** — A video analysis platform for construction and industrial worksite safety, productivity, and quality insights.
 
-Built for the **UMD Startup Shell × Ironsite Hackathon** · February 20–22, 2026
+Finalist for the **UMD Startup Shell × Ironsite Hackathon** · February 20–22, 2026
 
 ## Demo
 
